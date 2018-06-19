@@ -1,10 +1,14 @@
-# EquatorUi5
+# Angular Universal Seed project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Server side rendering
+Run `npm run build:ssr` for taking a build for running in the server.  
+After successfull build, run `npm run serve:ssr` for a dev server for checking server side rendering. Navigate to `http://localhost:4000/`. 
 
 ## Code scaffolding
 
