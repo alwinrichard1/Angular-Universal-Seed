@@ -10,6 +10,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `npm run build:ssr` for taking a build for running in the server.  
 After successfull build, run `npm run serve:ssr` for a dev server for checking server side rendering. Navigate to `http://localhost:4000/`. 
 
+## For detailed explanation
+Visit : https://angular.io/guide/universal
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
